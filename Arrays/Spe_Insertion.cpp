@@ -39,8 +39,8 @@ int main()
         cout << "You Entered Invalid Position" << endl;
     else
     {
-cout<<"Values After Insertion "<<endl;
         obj.in(p, n);
     }
+cout<<"Values After Insertion "<<endl;
     obj.print(5);
 }
